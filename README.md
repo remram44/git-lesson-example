@@ -1,9 +1,9 @@
-# Git tutorial
+# Git tutorial project
 
-This is a repository for the Git tutorial.
+This project is a repository for the Git tutorial.
 
-It contains random text that I will use to demonstrate.
+The project contains random text that I will use to demonstrate.
 
-It will be available on GitHub for everyone to play with.
+The project will be available on GitHub for everyone to play with.
 
--- Remi Rampin, NYU
+-- Remi Rampin, project leader, NYU
